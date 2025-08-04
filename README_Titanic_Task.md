@@ -43,25 +43,10 @@ This project demonstrates fundamental data preprocessing techniques on the Titan
 - `Seaborn`
 - `Sklearn.preprocessing` for MinMaxScaler
 
----
 
-## 📌 How to Run
 
-```bash
-# Clone the repo (if using GitHub)
-git clone <your-repo-url>
-cd titanic-preprocessing-task
-
-# Install required libraries
-pip install pandas matplotlib seaborn scikit-learn
-
-# Run the script
-python titanic_preprocessing.py
-```
-
----
 
 ## 👨‍💻 Author
-**Mathan G**  
+**Sucindhar S**  
 AI & ML Intern at Elevate Labs  
 August 2025
